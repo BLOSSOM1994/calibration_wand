@@ -1,0 +1,20 @@
+
+      Normalization of coordinates (centroid to the origin and mean distance of sqrt(2 or 3).
+
+      Input
+      -----
+      nd: number of dimensions, 3 here
+      x: the data to be normalized (directions at different columns and points at rows)
+    
+      Output
+      ------
+      Tr: the transformation matrix (translation plus scaling)
+      x: the transformed data
+
+      
+ Matrix P:
+ [ 1.87824560e+02 -6.12684197e+00  5.75221732e+01  6.85788989e+03
+ -1.81320454e+00  1.84282170e+02  4.34192509e+01  5.38121959e+02
+  2.51349460e-03 -5.48144368e-03  1.07220181e-01  1.00000000e+00]
+
+ Error: 1.656039555960076
