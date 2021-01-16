@@ -1,3 +1,9 @@
+# MyWork
+1.find P
+2.find [R t]
+
+.........................................................
+
 # calibration_wand
 Fundamental Matrix Estimation, Camera Calibration, Triangulation 2. 
 The goal of this assignment is to implement fundamental matrix estimation to register pairs of images, as well as attempt camera calibration, triangulation in 
