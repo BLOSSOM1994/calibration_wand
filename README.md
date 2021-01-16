@@ -3,6 +3,7 @@
 
 2.find [R t]
 
+# best article: calibration_wand/ARTICLE/PID3486677.pdf 
 .........................................................
 
 # calibration_wand
